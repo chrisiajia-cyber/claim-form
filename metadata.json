@@ -1,0 +1,6 @@
+{
+  "name": "ClearClaim",
+  "description": "Claims intake form with document auto-fill, review ledger, and CSV, JSON, and print-ready PDF data exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
